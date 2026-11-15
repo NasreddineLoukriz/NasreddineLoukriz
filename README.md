@@ -21,4 +21,4 @@ and end-to-end encrypted storage layers that servers can't read — by design, n
 **Learning:** Cybersecurity (Technicien Supérieur, INSFP) + Distributed Systems (DelftX)
 **Open to:** freelance mobile + AI integration work · [Upwork profile](#)
 
-📫 Reach me: [email أو لينكدإن هنا]
+📫 Reach me: https://www.linkedin.com/in/nasreddine-loukriz-185442435 
